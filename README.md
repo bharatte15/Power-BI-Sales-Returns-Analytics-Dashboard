@@ -1,9 +1,5 @@
 # Power-BI-Sales-Returns-Analytics-Dashboard
 An interactive Power BI report designed to analyze sales performance, customer conversion funnels, return patterns, and key drivers influencing business outcomes.
-# 📊 Power BI Sales & Returns Analytics Dashboard
-
-An interactive Power BI report designed to analyze sales performance, customer conversion funnels, return patterns, and key drivers influencing business outcomes.
-
 ---
 
 ## 🚀 Key Features & Insights
@@ -23,12 +19,3 @@ An interactive Power BI report designed to analyze sales performance, customer c
 * **Core Analytics:** Funnel Analysis, Trend Analysis, Diagnostic Analytics
 
 ---
-
-## 📁 Repository Structure
-
-```text
-├── reports/          # Power BI project file (.pbip / .pbix)
-├── screenshots/      # High-resolution visual snapshots
-├── data/             # Dataset documentation and schema
-├── .gitignore        # Excluded cache and temp files
-└── README.md         # Project documentation
