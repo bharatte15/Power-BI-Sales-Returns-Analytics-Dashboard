@@ -6,12 +6,6 @@ An interactive Power BI report designed to analyze sales performance, customer c
 
 ---
 
-## 🖼️ Dashboard Overview
-
-![Main Dashboard Screenshot](screenshots/overview_dashboard.png)
-
----
-
 ## 🚀 Key Features & Insights
 
 * **Key Drivers & Influencers:** Identified core factors driving return flags across sales channels, product categories, and discounts using Power BI's AI Key Influencers visual.
